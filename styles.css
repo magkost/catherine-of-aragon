@@ -1,0 +1,109 @@
+body {
+  background-color: #f5f7fa;
+  font-family: "Montserrat", sans-serif;
+}
+/* main cotact section */
+.main-section {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #fff;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px;
+}
+.main-section2 {
+  padding: 90px 90px;
+}
+h1 {
+  font-weight: 700;
+}
+
+.queen-section {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 17px;
+  margin-bottom: 20px;
+}
+.name-section {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  margin-bottom: 20px;
+}
+.about-description {
+  width: 400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: justify;
+  color: rgba(24, 22, 22, 0.952);
+}
+.h3-titles {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: black;
+  margin-bottom: 10px;
+}
+.marriage-dates-section {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.children-list {
+  padding-left: 18px;
+}
+.li {
+  color: rgba(224, 90, 12, 0.822);
+  font-style: normal;
+  font-weight: bold;
+}
+.divorce-section {
+  width: 550px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: justify;
+  color: rgba(24, 22, 22, 0.952);
+}
+/* side-bar-section */
+.side-bar-section {
+  background-color: #1e2939;
+  color: #f5f7fa;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-right: 10px;
+}
+.side-dates {
+  margin: 50px 0 0 40px;
+}
+/* links*/
+.links {
+}
+a:link,
+a:visited {
+  color: #1e2939;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+}
+a:hover,
+a:active {
+  color: rgba(255, 0, 0, 0.76);
+  text-decoration: underline;
+}
+
+.side-bar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #fff;
+  margin-bottom: 10px;
+}
